@@ -1,5 +1,5 @@
 
-### 👋 Hi, I'm Durga Naresh!
+# 👋 Hi, I'm Durga Naresh!
 👩🏻‍💻 Aspiring Software Engineer building my journey in tech by sharing projects, learnings on GitHub.<br/>
 👩🏻‍🎓 Studied Computer Science at Jagarlamudi Kuppuswamy Chowadry College, Guntur, India<br/>
 🎨 Intersted about Computer Science, tech, and Web3<br/>
