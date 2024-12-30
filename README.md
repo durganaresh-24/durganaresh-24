@@ -3,7 +3,7 @@
 ### Hi, Durga Naresh!
 
 👩🏻‍💻 Aspiring Software Engineer building my journey in tech by sharing projects, learnings on GitHub."<br/>
-👩🏻‍🎓 Studied [Computer Science](file:///C:/Users/nares/Downloads/Final%20Resume.pdf) at Jagarlamudi Kuppuswamy Chowdary College, Guntur, India<br/>
+👩🏻‍🎓 Studied Computer Science at Jagarlamudi Kuppuswamy Chowdary College, Guntur, India<br/>
 🎨 Learning about Computer Science, tech, and Web3<br/>
 💭 Currently learning about [Blockchain](https://academy.binance.com/en/track/beginner-track)!<br/>
 
